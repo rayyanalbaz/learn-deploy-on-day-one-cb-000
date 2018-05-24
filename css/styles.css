@@ -132,6 +132,12 @@ a:visited {
   display: block;
   height: 400px;
 }
+#rayyan-albaz-card{
+  background-image: url("https://imgur.com/DcvXyze");
+}
+#rayyan-albaz-cover{
+  background-image: url("https://imgur.com/B8vThHb");
+}
 
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
